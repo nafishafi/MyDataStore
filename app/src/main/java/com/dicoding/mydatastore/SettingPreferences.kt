@@ -39,4 +39,5 @@ class SettingPreferences private constructor(private val dataStore: DataStore<Pr
             }
         }
     }
+//    test
 }
